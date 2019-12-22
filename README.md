@@ -61,6 +61,14 @@ cat > outfile <<EOF
 - git pull
 
 ## User-Libc-Syscall-Kernel
+```
+user-space  (glibc, bash...)
+--------------- (system call)
+kernel      (process-mangment, memory-mangment, file-system, hardware-driver)
+---------------
+hardware    (cpu, memory, peripheral...)
+---------------
+```
 - kernel
 https://github.com/torvalds/linux
 - syscall
