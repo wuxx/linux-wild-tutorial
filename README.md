@@ -7,9 +7,11 @@
 ## 基础命令
 - ls
 - cd
-- echo
+- cp
+- mv
 - mkdir
 - rm
+- echo
 - cat
 - ssh
 ## 文件/目录
