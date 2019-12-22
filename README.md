@@ -2,7 +2,7 @@
 ## 概述
 - GNU
 - Linux
-- ubuntu/fedora/centos/slackware/...
+- red-hat/debian/ubuntu/fedora/centos/slackware/...
 - Kernel
 - Bash (.bashrc)
 ## 基础命令
