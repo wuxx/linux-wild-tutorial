@@ -1,7 +1,6 @@
 # 野生linux入门教程
 ## 概述
-- GNU
-- Linux
+- GNU/Linux
 - red-hat/debian/ubuntu/fedora/centos/slackware/...
 - Kernel
 - Bash (.bashrc)
