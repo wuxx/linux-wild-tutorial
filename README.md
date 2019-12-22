@@ -2,8 +2,9 @@
 ## 概述
 - GNU
 - Linux
-- Kernel
 - ubuntu/fedora/centos/slackware/...
+- Kernel
+- Bash (.bashrc)
 ## 基础命令
 - ls
 - cd
@@ -11,6 +12,16 @@
 - mkdir
 - rm
 - cat
+- ssh
+## 文件/目录
+- /home
+- /boot
+- /bin
+- /sbin
+- /dev
+- /sys
+- /etc
+- /proc
 
 ## 管道 & 重定向
 ```
